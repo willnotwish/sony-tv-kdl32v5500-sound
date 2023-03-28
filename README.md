@@ -7,3 +7,5 @@ Donor: KDL46V5500
 
 ## Symptoms
 Sound level (volume or tone, I'm not sure which) fluctuates at (say) 0.5 Hz sometimes, making it difficult to hear speech.
+
+I first noticed this on HDMI input from Virgin TV box.
